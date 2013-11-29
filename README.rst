@@ -28,13 +28,13 @@ Versões read-only on-line
 
 Use um dos seguintes links:
 
-* [0-Introducao](http://nbviewer.ipython.org/urls/raw.github.com/marcelcaraciolo/big-data-tutorial/master/tutorial/0-Introduction-to-Pandas.ipynb)
+* [0-Introducao]()
 
-* [1-Brincando com DataFrames](http://nbviewer.ipython.org/urls/raw.github.com/marcelcaraciolo/big-data-tutorial/master/tutorial/1-Playing-with-Recommender-Systems.ipynb)
+* [1-Brincando com DataFrames]()
 
-* [2-Brincando com a base MovieLens](http://nbviewer.ipython.org/urls/raw.github.com/marcelcaraciolo/big-data-tutorial/master/tutorial/2-Introduction-to-Scikit-Learn.ipynb)
+* [2-Brincando com a base MovieLens]()
 
-* [3-Brincando com Dados Financeiros](http://nbviewer.ipython.org/urls/raw.github.com/marcelcaraciolo/big-data-tutorial/master/tutorial/3-Map-Reduce.ipynb)
+* [3-Brincando com Dados Financeiros]()
 
 
 
