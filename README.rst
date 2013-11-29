@@ -28,11 +28,11 @@ Versões read-only on-line
 
 Use um dos seguintes links:
 
-* [0-Introducao]()
+* [0-Introducao](http://bit.ly/1eHfwHS)
 
-* [1-Brincando com DataFrames]()
+* [1-Brincando com DataFrames](http://bit.ly/18c5ZDN)
 
-* [2-Brincando com a base MovieLens]()
+* [2-Brincando com a base MovieLens](http://bit.ly/1ccxGkd)
 
 * [3-Brincando com Dados Financeiros]()
 
